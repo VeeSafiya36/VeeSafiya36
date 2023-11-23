@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeeSafiya36
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning JavaScript, HTML, and CSS
+- 🌱 I have learned JavaScript, HTML, and CSS. I am currently learning React!
 - 💞️ I’m looking to collaborate on upcoming projects that need an extra hand!
 - 📫 How to reach me ... vdildy3@gmail.com
 
